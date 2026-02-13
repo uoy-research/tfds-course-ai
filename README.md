@@ -23,8 +23,8 @@ Below are the available coding exercises. Each table shows the exercise name and
 
 | Exercise | Links |
 |---|---|
-| CE1 — Adult Census Income (simple) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uoy-research/tfds-course-ai/blob/main/Data/CodingExercises/CE1/01_ce1_adult_census_income_introduction_simple.ipynb?copy=true) · [Data/CodingExercises/CE1/01_ce1_adult_census_income_introduction_simple.py](Data/CodingExercises/CE1/01_ce1_adult_census_income_introduction_simple.py) |
-| CE1 — Adult Census Income (advanced) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uoy-research/tfds-course-ai/blob/main/Data/CodingExercises/CE1/02_ce1_adult_census_income_introduction_advanced.ipynb?copy=true) · [Data/CodingExercises/CE1/02_ce1_adult_census_income_introduction_advanced.py](Data/CodingExercises/CE1/02_ce1_adult_census_income_introduction_advanced.py) |
+| Adult Census Income (simple) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uoy-research/tfds-course-ai/blob/main/Data/CodingExercises/CE1/01_ce1_adult_census_income_introduction_simple.ipynb?copy=true) · [Data/CodingExercises/CE1/01_ce1_adult_census_income_introduction_simple.py](Data/CodingExercises/CE1/01_ce1_adult_census_income_introduction_simple.py) |
+| Adult Census Income (advanced) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uoy-research/tfds-course-ai/blob/main/Data/CodingExercises/CE1/02_ce1_adult_census_income_introduction_advanced.ipynb?copy=true) · [Data/CodingExercises/CE1/02_ce1_adult_census_income_introduction_advanced.py](Data/CodingExercises/CE1/02_ce1_adult_census_income_introduction_advanced.py) |
 
 --- 
 
@@ -32,9 +32,9 @@ Below are the available coding exercises. Each table shows the exercise name and
 
 | Exercise | Links |
 |---|---|
-| CE2 — Adult Census Income Pipeline (simple) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uoy-research/tfds-course-ai/blob/main/Data/CodingExercises/CE2/01_ce2_adult_census_income_pipeline_simple.ipynb?copy=true) · [Data/CodingExercises/CE2/01_ce2_adult_census_income_pipeline_simple.py](Data/CodingExercises/CE2/01_ce2_adult_census_income_pipeline_simple.py) |
-| CE2 — Adult Census Income Pipeline (advanced) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uoy-research/tfds-course-ai/blob/main/Data/CodingExercises/CE2/02_ce2_adult_census_income_pipeline_advanced.ipynb?copy=true) · [Data/CodingExercises/CE2/02_ce2_adult_census_income_pipeline_advanced.py](Data/CodingExercises/CE2/02_ce2_adult_census_income_pipeline_advanced.py) |
-| CE2 — Adult Census Income Pipeline (expert) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uoy-research/tfds-course-ai/blob/main/Data/CodingExercises/CE2/03_ce2_adult_census_income_pipeline_expert.ipynb?copy=true) · [Data/CodingExercises/CE2/03_ce2_adult_census_income_pipeline_expert.py](Data/CodingExercises/CE2/03_ce2_adult_census_income_pipeline_expert.py) |
+| Adult Census Income Pipeline (simple) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uoy-research/tfds-course-ai/blob/main/Data/CodingExercises/CE2/01_ce2_adult_census_income_pipeline_simple.ipynb?copy=true) · [Data/CodingExercises/CE2/01_ce2_adult_census_income_pipeline_simple.py](Data/CodingExercises/CE2/01_ce2_adult_census_income_pipeline_simple.py) |
+| Adult Census Income Pipeline (advanced) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uoy-research/tfds-course-ai/blob/main/Data/CodingExercises/CE2/02_ce2_adult_census_income_pipeline_advanced.ipynb?copy=true) · [Data/CodingExercises/CE2/02_ce2_adult_census_income_pipeline_advanced.py](Data/CodingExercises/CE2/02_ce2_adult_census_income_pipeline_advanced.py) |
+| Adult Census Income Pipeline (expert) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uoy-research/tfds-course-ai/blob/main/Data/CodingExercises/CE2/03_ce2_adult_census_income_pipeline_expert.ipynb?copy=true) · [Data/CodingExercises/CE2/03_ce2_adult_census_income_pipeline_expert.py](Data/CodingExercises/CE2/03_ce2_adult_census_income_pipeline_expert.py) |
 
 ---
 
