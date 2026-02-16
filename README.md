@@ -1,6 +1,6 @@
 # AI & Machine Learning: From Theory to Practice
 
-Concise, hands-on exercises and notebooks for learning applied machine learning workflows.
+Slides and Hands-on exercises for learning applied machine learning workflows.
 
 ## Slides
 **TO ADD**
