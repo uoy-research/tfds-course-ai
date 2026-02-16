@@ -3,9 +3,12 @@
 Slides and Hands-on exercises for learning applied machine learning workflows.
 
 ## Slides
-**TO ADD**
-
-
+| Title | Link |
+|---|---|
+| Breakout Session 1: AI as a Tool | [Data/Slides/Breakout_1__AI_as_a_Tool.pdf](Data/Slides/Breakout_1__AI_as_a_Tool.pdf) |
+| Episode 2: The Modern Powerhouses of AI | [Data/Slides/Episode_2__The_Modern_Powerhouses_of_AI.pdf](Data/Slides/Episode_2__The_Modern_Powerhouses_of_AI.pdf) |
+| Breakout Session 2: The Hard Questions | [Data/Slides/Breakout_2__The_Hard_Questions.pdf](Data/Slides/Breakout_2__The_Hard_Questions.pdf) |
+| Episode 7: Using Pre-Trained AI | [Data/Slides/Episode_7_Using_Pre_Trained_AI.pdf](Data/Slides/Episode_7_Using_Pre_Trained_AI.pdf)
 
 ## Coding Exercises
 
