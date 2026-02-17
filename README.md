@@ -57,3 +57,11 @@ Below are the available coding exercises. Each table shows the exercise name and
 
 ---
 
+### Coding Exercise 3
+
+**Note: From the Runtime menu in Google Colab, select "Change runtime type" and then select "T4 GPU" for the hardware accelerator. This will run the model significantly faster than on the CPU runtime.**
+
+| Exercise | Links |
+|---|---|
+| Local LLM Sentiment Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uoy-research/tfds-course-ai/blob/main/Data/CodingExercises/CE3/01_ce3_local_llm_sentiment_classification.ipynb?copy=true) · [Data/CodingExercises/CE3/01_ce3_local_llm_sentiment_classification.py](Data/CodingExercises/CE3/01_ce3_local_llm_sentiment_classification.py) |
+| Restaurant Reviews JSON | [Data/CodingExercises/CE3/02_ce3_restaurant_reviews.json](Data/CodingExercises/CE3/02_ce3_restaurant_reviews.json) |
