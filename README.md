@@ -3,12 +3,25 @@
 Slides and Hands-on exercises for learning applied machine learning workflows.
 
 ## Slides
+
+### Day 1
 | Title | Link |
 |---|---|
-| Breakout Session 1: AI as a Tool | [Data/Slides/Breakout_1__AI_as_a_Tool.pdf](Data/Slides/Breakout_1__AI_as_a_Tool.pdf) |
-| Episode 2: The Modern Powerhouses of AI | [Data/Slides/Episode_2__The_Modern_Powerhouses_of_AI.pdf](Data/Slides/Episode_2__The_Modern_Powerhouses_of_AI.pdf) |
-| Breakout Session 2: The Hard Questions | [Data/Slides/Breakout_2__The_Hard_Questions.pdf](Data/Slides/Breakout_2__The_Hard_Questions.pdf) |
-| Episode 7: Using Pre-Trained AI | [Data/Slides/Episode_7_Using_Pre_Trained_AI.pdf](Data/Slides/Episode_7_Using_Pre_Trained_AI.pdf)
+| Breakout Session 1: AI as a Tool | [Data/Slides/Breakout_1__AI_as_a_Tool.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/Breakout_1__AI_as_a_Tool.pdf) |
+| Episode 2: The Modern Powerhouses of AI | [Data/Slides/Episode_2__The_Modern_Powerhouses_of_AI.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/Episode_2__The_Modern_Powerhouses_of_AI.pdf) |
+| Breakout Session 2: The Hard Questions | [Data/Slides/Breakout_2__The_Hard_Questions.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/Breakout_2__The_Hard_Questions.pdf) |
+
+
+### Day 2
+| Title | Link |
+|---|---|
+| Episode 5: ML Lifecycle Fundamentals | [Data/Slides/episode_05_ml_lifecycle_fundamentals.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/episode_05_ml_lifecycle_fundamentals.pdf) |
+| Episode 5 (abridged): ML Lifecycle Fundamentals | [Data/Slides/episode_05_ml_lifecycle_fundamentals_abridged.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/episode_05_ml_lifecycle_fundamentals_abridged.pdf) |
+| Episode 6: Metrics, Pipelines & Tuning | [Data/Slides/episode_06_metrics_pipelines_tuning.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/episode_06_metrics_pipelines_tuning.pdf) |
+| Episode 6 (abridged): Metrics, Pipelines & Tuning | [Data/Slides/episode_06_metrics_pipelines_tuning_abridged.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/episode_06_metrics_pipelines_tuning_abridged.pdf) |
+| Episode 7: Using Pre-Trained AI | [Data/Slides/Episode_7_Using_Pre_Trained_AI.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/Episode_7_Using_Pre_Trained_AI.pdf) |
+
+
 
 ## Coding Exercises
 
