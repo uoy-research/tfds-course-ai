@@ -20,7 +20,7 @@ Slides and Hands-on exercises for learning applied machine learning workflows.
 | Episode 5 (abridged): ML Lifecycle Fundamentals | [Data/Slides/episode_05_ml_lifecycle_fundamentals_abridged.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/episode_05_ml_lifecycle_fundamentals_abridged.pdf) |
 | Episode 6: Metrics, Pipelines & Tuning | [Data/Slides/episode_06_metrics_pipelines_tuning.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/episode_06_metrics_pipelines_tuning.pdf) |
 | Episode 6 (abridged): Metrics, Pipelines & Tuning | [Data/Slides/episode_06_metrics_pipelines_tuning_abridged.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/episode_06_metrics_pipelines_tuning_abridged.pdf) |
-| Episode 7: Using Pre-Trained AI | [Data/Slides/Episode_7_Using_Pre_Trained_AI.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/Episode_7_Using_Pre_Trained_AI.pdf) |
+| Episode 7: Using Pre-Trained AI | [Data/Slides/episode_07_using_pre_trained_ai.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/episode_07_using_pre_trained_ai.pdf) |
 
 
 
