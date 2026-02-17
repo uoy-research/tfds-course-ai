@@ -12,7 +12,7 @@ Slides and Hands-on exercises for learning applied machine learning workflows.
 | Episode 2: The Modern Powerhouses of AI, Part 1 | [Data/Slides/episode_02_the_modern_powerhouses_of_ai_1.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/episode_02_the_modern_powerhouses_of_ai_1.pdf) |
 | Breakout Session 2: The Hard Questions | [Data/Slides/breakout_02_the_hard_questions.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/breakout_02_the_hard_questions.pdf) |
 | Episode 3: The Modern Powerhouses of AI, Part 2 | [Data/Slides/episode_03_the_modern_powerhouses_of_ai_2.pdf](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/episode_03_the_modern_powerhouses_of_ai_2.pdf) |
-| Episode 4: Promise and Peril | [Data/Slides/episode_04_promise_and_peril](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/episode_04_promise_and_peril) |
+| Episode 4: Promise and Peril | [Data/Slides/episode_04_promise_and_peril](https://raw.githubusercontent.com/uoy-research/tfds-course-ai/main/Data/Slides/episode_04_promise_and_peril.pdf) |
 
 
 ### Day 2
